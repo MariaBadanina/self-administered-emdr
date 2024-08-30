@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "id": "input1",
+      "type": "text",
+      "label": "Input 1",
+      "placeholder": "Enter first input"
+    },
+    {
+      "id": "input2",
+      "type": "email",
+      "label": "Input 2 (Email)",
+      "placeholder": "Enter your email"
+    },
+    {
+      "id": "input3",
+      "type": "number",
+      "label": "Input 3 (Number)",
+      "placeholder": "Enter a number"
+    },
+    {
+      "id": "input4",
+      "type": "number",
+      "label": "Input 4 (Number)",
+      "placeholder": "Enter a number"
+    }
+  ]
+}
